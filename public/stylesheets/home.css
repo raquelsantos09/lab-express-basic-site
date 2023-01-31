@@ -1,0 +1,16 @@
+
+.nav-bar {
+    background-color: rgb(25, 33, 41);
+    padding: 14px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+  .nav-bar a {
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
